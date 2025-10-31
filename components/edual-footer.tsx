@@ -14,7 +14,7 @@ export default function Footer() {
                 <div className="w-1 h-6 bg-purple-600 transform -skew-x-12"></div>
                 <div className="w-1 h-6 bg-purple-600 transform -skew-x-12"></div>
               </div>
-              <span className="text-xl font-bold text-white">PRITHVI</span>
+              <span className="text-xl font-bold text-white">PRITHVIRAJAN_P</span>
             </div>
             <p className="text-gray-400 text-sm">Full-stack developer crafting digital excellence</p>
           </div>
