@@ -65,9 +65,13 @@ export default function HeroSection() {
                 <div className="inline-block px-3 py-1 bg-purple-500/20 border border-purple-500/40 rounded-full text-sm text-purple-300">
                   Featured Project
                 </div>
-                <h3 className="text-2xl font-bold text-white">Skin Cancer Detection</h3>
+                <h className="text-2xl font-bold text-white">Skin Cancer Detection</h>
                 <p className="text-gray-300">
                   AI-powered image recognition system using deep learning and modern web stack.
+                </p>
+                <h className="text-2xl font-bold text-white">Quantum Chat System</h>
+                <p className="text-gray-300">
+                  A Quantum secure chat for high end secure transmission of messages over internet.
                 </p>
               </div>
               <button className="relative z-10 w-12 h-12 rounded-full bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center hover:shadow-lg hover:shadow-purple-500/50 transition group/btn">
